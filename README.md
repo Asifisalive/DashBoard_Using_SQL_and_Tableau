@@ -6,7 +6,7 @@ This project involves analyzing a financial loan dataset using SQL queries and v
 ## SQL Queries
 The SQL queries are designed to extract key metrics and insights from the financial_loan_dataset. The queries perform the following functions:
 
-  Create and Use Database: Initialize and switch to the project database.
+  * Create and Use Database: Initialize and switch to the project database.
 
   Show Tables: List all tables within the database.
 
